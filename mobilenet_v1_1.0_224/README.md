@@ -1,1 +1,1 @@
-- mobilenet_v1_1.0_224 model files，这个模型包含许多碎片化的二进制文件。
+- mobilenet_v1_1.0_224 model files，这个模型包含许多碎片化的二进制文件，包含metadata.json文件。
