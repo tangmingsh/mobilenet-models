@@ -1,1 +1,1 @@
-- 包含许多碎片化的二进制权重文件以及metadata.json 标签元文件。
+- mobilenet_v1_1.0_224 包含许多碎片化的二进制权重文件以及metadata.json 标签元文件。ML5.js使用这种模型文件。
